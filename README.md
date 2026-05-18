@@ -1,6 +1,7 @@
 # PacMan AI Project
 
 This project is based on the official UC Berkeley CS188 Project 2: Multi-Agent Search.
+Project Reference: https://inst.eecs.berkeley.edu/~cs188/sp26/projects/proj2/
 
 ## Algorithms Implemented
 
@@ -10,7 +11,7 @@ This project is based on the official UC Berkeley CS188 Project 2: Multi-Agent S
 - Expectimax Agent
 
 ## Project Structure
-
+```text
 BTL_AI-main/
 ├── multiAgents.py      # Main implementation of agents
 ├── pacman.py           # Game engine
